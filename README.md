@@ -5,6 +5,7 @@ Atividade para aulas de POO - JAVA
 Software para gerenciar torneios de bairros. 
 
 Principais funções: 
+
     Criar um torneio
       O torneio pode ser criado com um limite de times, de acordo com a definição do criador do torneio, podendo ser criados         com quantidades pré-definidas, ou seja, pode ser pequenos torneios (8), médios(16) ou grandes(32), (Quantidade de times).
       Os torneios podem ter 0 ou N parocinadores.
